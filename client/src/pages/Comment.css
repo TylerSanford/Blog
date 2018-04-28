@@ -1,8 +1,21 @@
 .Author {
-  font-size: 10px;
-  font-weight: 300;
+  font-size: 15px;
+  font-weight: bold;
 }
 .Comment {
   font-size: 12px;
   font-weight: 400;
+}
+
+h3 {
+  font-family: Trade Gothic;
+  font-size: 10px;
+  font-weight: bold;
+}
+
+h4 {
+  font-family: Trade Gothic;
+  font-size: 30px;
+  font-weight: bold;
+  text-decoration: underline;
 }
